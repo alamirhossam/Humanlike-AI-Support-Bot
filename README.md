@@ -1,3 +1,5 @@
+![Workflow Overview](./Workflow.png)
+
 # 🤖 Humanlike AI Support Bot
 
 > An n8n automation workflow that simulates a real human sales agent on Telegram — with a persistent identity, long-term memory, message debouncing, typing indicators, and sentence-by-sentence replies.
@@ -48,8 +50,6 @@ A dedicated `Parse Output` node strips any AI reasoning leakage (`<think>` tags,
 ---
 
 ## 🏗️ Architecture
-
-![Workflow Overview](./Workflow.png)
 
 ```
 Telegram Message
