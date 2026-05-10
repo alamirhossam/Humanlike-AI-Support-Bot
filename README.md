@@ -114,14 +114,6 @@ You can modify:
 
 The rest of the workflow is persona-agnostic and can be reused for any industry or language.
 
----
-
-## 📁 Project Structure
-
-```
-workflow.json          ← The full n8n workflow export
-README.md              ← This file
-```
 
 ---
 
