@@ -49,6 +49,8 @@ A dedicated `Parse Output` node strips any AI reasoning leakage (`<think>` tags,
 
 ## 🏗️ Architecture
 
+![Workflow Overview](./Workflow.png)
+
 ```
 Telegram Message
     └── Queue & Debounce (Upstash Redis)
